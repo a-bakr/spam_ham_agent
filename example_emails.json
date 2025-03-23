@@ -1,0 +1,22 @@
+[
+	{
+		"sender": "Joker",
+		"subject": "Found you Batman!",
+		"body": "Mr. Wayne, I found your secret identity! I know you're Batman! There's no denying it, I have proof of that and I'm coming to find you soon. I'll get my revenge. JOKER"
+	},
+	{
+		"sender": "Crypto Bro",
+		"subject": "The best investment of 2025",
+		"body": "Mr. Wayne, I just launched an ALT coin and want you to buy some! This is going to be the next Bitcoin. Limited time offer - only for select investors like you!"
+	},
+	{
+		"sender": "Lucius Fox",
+		"subject": "New Batmobile Prototype",
+		"body": "Bruce, the R&D team has completed the new Batmobile prototype. It features enhanced armor, stealth capabilities, and improved fuel efficiency. Would you like to schedule a time to review the specs and take it for a test drive? Let me know your availability this week."
+	},
+	{
+		"sender": "Alfred Pennyworth",
+		"subject": "Charity Gala Reminder",
+		"body": "Master Wayne, This is a reminder that the Wayne Foundation Charity Gala is scheduled for this Saturday at 7 PM. Your tuxedo has been pressed and your speech has been prepared as requested. Commissioner Gordon and several city officials have confirmed their attendance."
+	}
+]
